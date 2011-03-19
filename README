@@ -1,0 +1,4 @@
+This library abstracts away the details of the Loebner Prize Protocol.  
+It allows you to send messages in either character mode or message mode.
+Message mode simulates typing using common misspellings and speed based 
+on word frequency.
